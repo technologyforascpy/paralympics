@@ -1,0 +1,113 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: #edf2f4;
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+/**h1{color:#2b2d42;text-align:center;margin-top:25px;margin-bottom:100px;margin:25px 0 100px 0;min-width:300px}**/
+
+
+A:link {
+    text-decoration: none;
+    color: #464d58;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+A:hover {
+    color: #9a9fa7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    ;
+    text-decoration: none
+}
+
+A:visited {
+    color: #9a9fa7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none
+}
+
+.banner {
+    max-height: 100px;
+    max-width: 100%;
+    display: block;
+    min-width: 300px;
+    margin: auto;
+    padding-left: 10px;
+    border-radius: .5em;
+    -webkit-border-radius: .5em;
+    -moz-border-radius: .5em;
+    -ms-border-radius: .5em;
+    -o-border-radius: .5em;
+    background-color: #fafafab4;
+    box-shadow: .25px .25px .25px #edf2f4;
+    padding: 5px;
+
+}
+
+.div-banner {
+    padding-top: 10px;
+    display: block;
+}
+
+.berlin-germany {
+    color: #457B9D;
+    font-size: 40px;
+    min-width: 300px;
+    text-align: center;
+
+
+}
+
+.berlin-germany-flag {
+    color: #457B9D;
+    font-size: 40px;
+    min-width: 300px;
+    margin-left: 3rem;
+    display: inline;
+
+}
+
+#berlin-germany-flagimg {
+    width: 7em;
+    display: inline;
+
+}
+
+.flag {
+    margin-top: 0em;
+    margin-left: 2em;
+    display: inline;
+    width: 4em;
+    margin-bottom: -.5rem;
+}
+
+.video {
+    color: #457B9D;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    margin: 25px 0 100px 0;
+    min-width: 300px;
+    font-size: 40px;
+}
+
+.anthem {
+    color: #457B9D;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    margin: 25px 0 100px 0;
+    min-width: 300px;
+    font-size: 40px;
+}
+
+.anthem-audio {
+    margin: auto;
+    display: block;
+    margin-top: -50px;
+}
